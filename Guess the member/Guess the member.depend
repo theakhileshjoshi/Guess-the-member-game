@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1594119803 source:d:\projects\guess the member\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+
